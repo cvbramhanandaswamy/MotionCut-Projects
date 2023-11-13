@@ -1,4 +1,4 @@
-# MotionCut-Projects
+# MyInternshipProjects
 Todo_List  Application using Python Programming
 
 Project Overview:
